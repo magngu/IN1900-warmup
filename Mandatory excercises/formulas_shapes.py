@@ -1,5 +1,5 @@
-# interest_rate.py
-# Author Magnus // Jab 2022
+# formulas_shapes.py
+# Author Magnus // Jan 2022
 # ------------------------------------------------------------------------------
 from math import pi
 

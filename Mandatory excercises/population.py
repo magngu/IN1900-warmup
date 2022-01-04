@@ -1,5 +1,5 @@
-# interest_rate.py
-# Author Magnus // Jab 2022
+# population.py
+# Author Magnus // Jan 2022
 # ------------------------------------------------------------------------------
 import math
 
