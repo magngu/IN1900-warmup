@@ -1,1 +1,1 @@
-GitHub repository for UiO course IN1900.
+**Repository for UiO course IN1900**
