@@ -10,8 +10,23 @@ reference and committing to memory.
   * F-string formatting
   * Format specifiers
   * print()
-     * With some
-     * Sub bullets
+
+</details>
+
+<details>
+  <summary>Lists</summary>
+
+  * L
+  * List comprehension
+  * List slicing
+
+  ```python
+    # List comprehension
+    # new_list = = [expression for element in iterable]
+    my_list = [x**2 for x in range(10)]
+    
+  ```
+
 </details>
 
 # A collapsible section containing code
@@ -24,20 +39,6 @@ reference and committing to memory.
     }
   ```
 </details>
-
-# How to structure
-```
-# A collapsible section with markdown
-<details>
-  <summary>Click to expand!</summary>
-
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-```
 
 
 ## Subjects, concepts and must knows
