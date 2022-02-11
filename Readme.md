@@ -21,6 +21,14 @@ reference and committing to memory.
   * Format specifiers
   * print()
 
+  ```python
+  # f-string formatting
+  print(f'Evaluate {variable} at runtime')
+
+  # format specifieer
+  print(f'Set space for output {x:8.2f}.')
+  ```
+
 </details>
 
 <details>
@@ -141,21 +149,4 @@ ValueError
 IndexError
 raise ExceptionType(message)
 
-```
-
-
-
-```python
-# General syntax for list comprehension
-new_list = [expression for element in iterable]
-````
-
-
-##### String formatting
-```python
-# f-string formatting
-print(f'Evaluate {variable} at runtime')
-
-# format specifieer
-print(f'Set space for output {x:8.2f}.')
 ```
