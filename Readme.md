@@ -1,7 +1,7 @@
 # UiO // IN1900 - Introduction to Programming
-Repository for all my [IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN1900/index-eng.html) 
-excercise answers and related documents. Readme is primarily notes of course contents for 
-reference and commiting to memory. 
+Repository for all my [IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN1900/index-eng.html)
+excercise answers and related documents. Readme is primarily notes of course contents for
+reference and commiting to memory.
 
 ## Subjects, concepts and must knows
 
@@ -23,11 +23,11 @@ reference and commiting to memory.
 * How to make and import modules
 
 ## Functions, Methods and expressions
-* [.append()]() 
-* [eval()]() 
+* [.append()]()
+* [eval()]()
 * [exec()]()
 * [exit()]()
-* [input()]() 
+* [input()]()
 * [len()]()
 * [open()]()
 * [.read()]()
@@ -47,7 +47,13 @@ reference and commiting to memory.
    2. What operations should be performed on the iterable?
 * A for loop can always be transformed to a while-loop, but not vice versa
 
-
+<details>
+    <summary>
+        Testmeny
+    </summary>
+    * Bullet 1
+    * Bullet 2
+</details>
 
 
 
@@ -108,8 +114,3 @@ print(f'Evaluate {variable} at runtime')
 # format specifieer
 print(f'Set space for output {x:8.2f}.')
 ```
-
-
-
-
-
