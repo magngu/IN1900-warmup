@@ -3,13 +3,13 @@ Repository for all my [IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN190
 excercise answers and related documents. Primarily notes of course contents for
 reference and committing to memory.
 
-#### Course knowledge and skills overview
+### Short overview of course
 <details>
-  <summary>**Subject overview</summary>
+  <summary>Working with strings</summary>
 
-  ## Heading
-  1. A numbered
-  2. list
+  1. F-string formatting
+  2. Format specifiers
+  3. print()
      * With some
      * Sub bullets
 </details>
