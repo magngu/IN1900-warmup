@@ -7,12 +7,13 @@ reference and committing to memory.
 
 ### Course Overview & Key Points
 <details>
-  <summary>Modules</summary>
+  <summary>Python modules used</summary>
 
-  * math
-  * cmath
-  * numpy
-  * sys
+  * Math
+  * Cmath
+  * Matplotlib.pyplot
+  * Numpy
+  * Sys
 
 </details>
 
@@ -36,6 +37,7 @@ reference and committing to memory.
 <details>
   <summary>Working with files</summary>
 
+  * with statement
   * close()
   * open()
   * write()
@@ -102,14 +104,6 @@ reference and committing to memory.
 * Exception handling & try-except blocks
 * How to make and import modules
 
-## Functions, Methods and expressions
-* [eval()]()
-* [exec()]()
-* [exit()]()
-* [input()]()
-* [write()]()
-* [sys.argv[i]]()
-
 
 
 ## UNSORTED
@@ -121,6 +115,15 @@ list    # List
 dict    # Dictionary [Hash table]
 bool    # Boolean
 tuple   # Tuple [Immutable list]
+
+# Functions, Methods and expressions
+* [eval()]()
+* [exec()]()
+* [exit()]()
+* [input()]()
+* [write()]()
+* [sys.argv[i]]()
+
 
 
 
