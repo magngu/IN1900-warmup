@@ -1,7 +1,7 @@
 # UiO // IN1900 - Introduction to Programming
 Repository for all my [IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN1900/index-eng.html)
-excercise answers and related documents. Readme is primarily notes of course contents for
-reference and commiting to memory.
+excercise answers and related documents. Primarily notes of course contents for
+reference and committing to memory.
 
 ## Subjects, concepts and must knows
 
@@ -30,8 +30,7 @@ reference and commiting to memory.
 * [input()]()
 * [len()]()
 * [open()]()
-* [.read()]()
-* [.readlines()]()
+
 * [close()]()
 * [print()]()
 * [range()]()
@@ -39,6 +38,23 @@ reference and commiting to memory.
 * [write()]()
 * [zip()]()
 * [sys.argv[i]]()
+
+<details>
+    <summary>String Formatting</summary>
+
+    1. F-string formatting
+    2. Format specifier
+    * Bullet 2
+</details>
+
+<details>
+    <summary>Working with files</summary>
+
+    * [.read()]()
+    * [.readlines()]()
+    
+</details>
+
 
 ## Tips & Tricks
 * Always compare floats by using a tolerance value. Typical machine precision is 10^-16
@@ -49,7 +65,7 @@ reference and commiting to memory.
 
 <details>
     <summary>
-        ### Testmeny
+        Testmeny
     </summary>
     * Bullet 1
     * Bullet 2
