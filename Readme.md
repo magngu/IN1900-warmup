@@ -36,12 +36,10 @@ reference and committing to memory.
 <details>
     <summary>List operations</summary>
 
-    #### List comprehensions
     ```python
-    # new_list = [expression for element in iterable]
-    my_list = [x**2 for x in range(10)]
+        # new_list = [expression for element in iterable]
+        my_list = [x**2 for x in range(10)]
     ```
-
 
     #### Functions & Methods
     * .append()
