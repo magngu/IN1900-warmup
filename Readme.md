@@ -2,6 +2,7 @@
 Repository for my [IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN1900/index-eng.html)
 excercise solutions and related documents. Readme is primarily a personal note of course contents
 and things which must be committed to memory.
+
 ![](https://img.shields.io/badge/UiO-IN1900-blueviolet)  ![](https://img.shields.io/badge/Python-Numpy-blueviolet)  ![](https://img.shields.io/badge/Python-MatplotLib-blueviolet)
 
 ### Course Overview & Key Points
@@ -13,6 +14,9 @@ and things which must be committed to memory.
   * Matplotlib.pyplot
   * Numpy
   * Sys
+
+  * Know how to make and import modules
+  * Know how to edit where python looks for modules
 
 </details>
 
