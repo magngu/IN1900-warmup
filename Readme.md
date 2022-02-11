@@ -33,7 +33,7 @@ reference and committing to memory.
 </details>
 
 <details>
-  <summary>Loops/summary>
+  <summary>Loops</summary>
 
   * While-loop
   * For-loop
