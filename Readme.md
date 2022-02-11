@@ -23,36 +23,49 @@ reference and committing to memory.
 * How to make and import modules
 
 ## Functions, Methods and expressions
-* [.append()]()
 * [eval()]()
 * [exec()]()
 * [exit()]()
 * [input()]()
-* [len()]()
-* [open()]()
-
-* [close()]()
-* [print()]()
 * [range()]()
-* [.split()]()
 * [write()]()
 * [zip()]()
 * [sys.argv[i]]()
+
+## Functions & Methods
+<details>
+    <summary>List operations</summary>
+
+    #### List comprehensions
+    ```python
+    # new_list = [expression for element in iterable]
+    my_list = [x**2 for x in range(10)]
+    ```
+
+
+    #### Functions & Methods
+    * .append()
+    * .split()
+    2. len()
+    2. Format specifier
+</details>
 
 <details>
     <summary>String Formatting</summary>
 
     1. F-string formatting
     2. Format specifier
-    * Bullet 2
+    3. print()
 </details>
 
 <details>
     <summary>Working with files</summary>
 
+    * close()
+    * open()
     * [.read()]()
     * [.readlines()]()
-    
+
 </details>
 
 
