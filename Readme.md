@@ -1,4 +1,4 @@
-# UiO // IN1900 - Introduction to Programming
+## UiO // IN1900 - Introduction to Programming with Scientific Applications
 Repository for all my [IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN1900/index-eng.html)
 excercise answers and related documents. Primarily notes of course contents for
 reference and committing to memory.
