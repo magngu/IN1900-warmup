@@ -5,6 +5,16 @@ reference and committing to memory.
 
 ### Short overview of course
 <details>
+  <summary>Modules</summary>
+
+  * math
+  * cmath
+  * numpy
+  * sys
+
+</details>
+
+<details>
   <summary>Working with strings</summary>
 
   * F-string formatting
@@ -41,6 +51,14 @@ reference and committing to memory.
   * len()
   * range()
   * zip()
+
+</details>
+
+<details>
+  <summary>Exception handling</summary>
+
+  * try-except-finally
+  * raise
 
 </details>
 
