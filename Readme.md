@@ -3,7 +3,7 @@ Repository for all my [IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN190
 excercise answers and related documents. Primarily notes of course contents for
 reference and committing to memory.
 
-![](https://img.shields.io/badge/UiO-IN1900-blueviolet) ![](https://img.shields.io/badge/python-numpy-blueviolet)
+![](https://img.shields.io/badge/UiO-IN1900-blueviolet)  ![](https://img.shields.io/badge/Python-Numpy-blueviolet)  ![](https://img.shields.io/badge/Python-MatplotLib-blueviolet)
   <summary>Modules</summary>
 
   * math
