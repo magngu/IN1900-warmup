@@ -24,6 +24,17 @@ reference and committing to memory.
 </details>
 
 <details>
+  <summary>Working with files</summary>
+
+  * close()
+  * open()
+  * write()
+  * [.read()]()
+  * [.readlines()]()
+
+</details>
+
+<details>
   <summary>Lists</summary>
 
   * Lists are mutable
@@ -62,16 +73,7 @@ reference and committing to memory.
 
 </details>
 
-# A collapsible section containing code
-<details>
-  <summary>Click to expand!</summary>
 
-  ```javascript
-    function logSometing(something) {
-      console.log(`Logging: ${something}`);
-    }
-  ```
-</details>
 
 
 ## Subjects, concepts and must knows
@@ -97,29 +99,6 @@ reference and committing to memory.
 * [input()]()
 * [write()]()
 * [sys.argv[i]]()
-
-## Functions & Methods
-
-<details>
-    <summary>String Formatting</summary>
-
-    1. F-string formatting
-    2. Format specifier
-    3. print()
-</details>
-
-<details>
-    <summary>Working with files</summary>
-
-    * close()
-    * open()
-    * [.read()]()
-    * [.readlines()]()
-
-</details>
-
-
-
 
 
 
