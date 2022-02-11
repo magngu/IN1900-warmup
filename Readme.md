@@ -5,6 +5,7 @@ reference and committing to memory.
 
 ![](https://img.shields.io/badge/UiO-IN1900-blueviolet)  ![](https://img.shields.io/badge/Python-Numpy-blueviolet)  ![](https://img.shields.io/badge/Python-MatplotLib-blueviolet)
 
+### Course Overview & Key Points
 <details>
   <summary>Modules</summary>
 
