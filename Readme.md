@@ -7,9 +7,9 @@ reference and committing to memory.
 <details>
   <summary>Working with strings</summary>
 
-  1. F-string formatting
-  2. Format specifiers
-  3. print()
+  * F-string formatting
+  * Format specifiers
+  * print()
      * With some
      * Sub bullets
 </details>
