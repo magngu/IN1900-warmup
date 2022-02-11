@@ -5,7 +5,7 @@ reference and committing to memory.
 
 # A collapsible section containing markdown
 <details>
-  <summary>Click to expand!</summary>
+  <summary>**Subject overview</summary>
 
   ## Heading
   1. A numbered
@@ -38,10 +38,6 @@ reference and committing to memory.
      * Sub bullets
 </details>
 ```
-**Two important rules:**
-1. Make sure you have an **empty line** after the closing `</summary>` tag, otherwise the markdown/code blocks won't show correctly.
-2. Make sure you have an **empty line** after the closing `</details>` tag if you have multiple collapsible sections.
-
 
 
 ## Subjects, concepts and must knows
