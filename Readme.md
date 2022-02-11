@@ -9,11 +9,7 @@ and things which must be committed to memory.
 <details>
   <summary>Python modules used</summary>
 
-  * Math
-  * Cmath
-  * Matplotlib.pyplot
-  * Numpy
-  * Sys
+  * Math // Cmath // MatplotLib.pyplot // Numpy // Sys
 
   * Know how to make and import modules
   * Know how to edit where python looks for modules
