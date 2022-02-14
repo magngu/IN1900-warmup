@@ -16,6 +16,7 @@ and things which should be committed to memory.
 
 </details>
 
+
 <details>
   <summary>Working with strings</summary>
 
@@ -33,17 +34,19 @@ and things which should be committed to memory.
 
 </details>
 
+
 <details>
   <summary>Working with files</summary>
 
   * with statement
-  * close()
+  * .close()
   * open()
   * write()
   * [.read()]()
   * [.readlines()]()
 
 </details>
+
 
 <details>
   <summary>Lists</summary>
@@ -64,17 +67,36 @@ and things which should be committed to memory.
 
 </details>
 
+
 <details>
   <summary>Loops</summary>
 
   * While-loop
   * For-loop
   * Mathematical sum as for-loop
+  * Break statement
+  * Continue statement
+
+</details>
+
+
+<details>
+  <summary>Built in functions</summary>
+
+  * eval()
+  * exec()
+  * exit()
+  * input()
   * len()
   * range()
+  * map()
+  * open()
+  * print()
+  * write()
   * zip()
 
 </details>
+
 
 <details>
   <summary>Exception handling</summary>
@@ -83,6 +105,25 @@ and things which should be committed to memory.
   * raise
 
 </details>
+
+<details>
+  <summary>Numpy</summary>
+
+  * np.empty()
+  * np.linspace()
+  * np.mean()
+  * np.max()
+  * np.min()
+  * np.zeros()
+
+  ```python
+    # Standard import format
+    import numpy as np
+
+  ```
+
+</details>
+
 
 
 
@@ -116,11 +157,6 @@ bool    # Boolean
 tuple   # Tuple [Immutable list]
 
 # Functions, Methods and expressions
-* [eval()]()
-* [exec()]()
-* [exit()]()
-* [input()]()
-* [write()]()
 * [sys.argv[i]]()
 
 
@@ -140,6 +176,8 @@ else
 tryexcept
 finally
 raise
+break
+continue
 
 # MODULES
 import math
