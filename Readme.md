@@ -16,6 +16,15 @@ and things which should be committed to memory.
 
 </details>
 
+<details>
+  <summary>Built in data structures</summary>
+
+  * Lists
+  * Dictionary
+  * Tuple
+  * Set
+
+</details>
 
 <details>
   <summary>Working with strings</summary>
@@ -38,12 +47,13 @@ and things which should be committed to memory.
 <details>
   <summary>Working with files</summary>
 
-  * with statement
-  * .close()
-  * open()
-  * write()
-  * [.read()]()
-  * [.readlines()]()
+  * [with] statement
+  * [.close()](https://docs.python.org/3/tutorial/inputoutput.html)
+  * [open()](https://docs.python.org/3/tutorial/inputoutput.html)
+  * [write()](https://docs.python.org/3/tutorial/inputoutput.html)
+  * [.read()](https://docs.python.org/3/tutorial/inputoutput.html)
+  * [.readline()](https://docs.python.org/3/tutorial/inputoutput.html)
+  * [.readlines()](https://docs.python.org/3/tutorial/inputoutput.html)
 
 </details>
 
